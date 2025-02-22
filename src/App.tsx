@@ -1,6 +1,7 @@
+import Index from "./pages/Index"
 
 
-import Index from './pages'
+
 
 function App() {
 
